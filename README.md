@@ -30,14 +30,12 @@ with the right expertise and data take it further.
   - 2,441 ED injury narratives mention autism.
   - A quarter of the hand-read cases were injuries during self-injury or distress, which the
     product coding records as walls, windows or floors.
-  - Against age-, sex- and year-matched cases, the autism-mention case mix holds far more:
-    - head-banging (12.6×);
-    - seizures mentioned (8.4×);
-    - batteries (6.5×);
-    - poisoning (5.6×);
-    - swallowed objects (4.5×);
-  - and far fewer sports injuries (0.05×).
-  - These are proportion ratios shaped by what staff choose to record, not risks.
+  - Against age-matched cases with no condition recorded, the autism-mention case mix shows
+    4–13 times more head-banging, swallowing, poisoning, batteries and seizures.
+  - **Against notes that mention other conditions recorded the same way** (ADHD, Down syndrome,
+    cerebral palsy, developmental delay), most of that excess disappears. Only head-banging
+    (about 2×) and fewer fractures remain. The swallowing and poisoning hazards apply to children
+    with neurodevelopmental conditions generally.
 - **Seizure alarms:**
   - OSD's default algorithm flagged rocking and flapping about as often as ordinary activity:
     1.4 against 1.1 alarm onsets per hour.

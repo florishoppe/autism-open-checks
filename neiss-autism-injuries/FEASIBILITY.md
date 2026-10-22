@@ -158,7 +158,7 @@ include some non-patient and incidental cases.
 | Hazard | Mentions |
 |---|---|
 | Head-banging or hitting head against a wall | 286 |
-| Wandering or elopement ("ran away", "wander", "elope") | 63 |
+| Wandering or elopement ("ran away", "wander", "elope") | 5 (corrected 2026-10-22; first published as 63 because "ELOP" also matched "devELOPmental") |
 | Batteries (11 naming button or lithium coin cells) | 31 |
 | Drowning or submersion | 17 |
 | Falls from windows | 16 |
@@ -233,3 +233,50 @@ are incidental or concern someone else, which dilutes the ratios towards 1.
 **Why it is still useful:** it says where prevention attention should go — batteries and magnets
 in the home, poisons stored within reach, window safety, bath and pool supervision, and seizure
 safety. And it says the NEISS product codes alone would miss most of this.
+
+---
+
+## Fairer comparison: autism against other conditions recorded the same way (2018–2024)
+
+Script: `04_other_conditions.py`. Output: `comparison_other_conditions_2018_2024.tsv`.
+
+**Why.** The comparison above is against all other cases. Coders write a condition into a note
+mainly when it helps explain the injury, so "everyone else" is a biased reference: any
+condition-mention group would look different from it. The project's own stress test recommended
+comparing against notes that mention *other* conditions recorded in the same selective way. That
+was not done in the first version, and this section corrects it.
+
+**Groups**, ages 2–25, 2018–2024. Notes mentioning autism are excluded from the other groups.
+
+| Group | Autism | ADHD | Down syndrome | Cerebral palsy | Developmental delay / ID |
+|---|---|---|---|---|---|
+| Cases | 1,381 | 175 | 86 | 93 | 189 |
+
+| Feature | Autism | ADHD | Down | CP | DD/ID | Autism vs pooled others (95% CI) |
+|---|---|---|---|---|---|---|
+| Head-banging (text) | 13.3% | 10.9% | 4.7% | 1.1% | 4.8% | **2.18** (1.53–3.12) |
+| Fracture | 6.1% | 4.0% | 9.3% | 17.2% | 9.0% | **0.69** (0.49–0.97) |
+| Ingested foreign body | 8.5% | 6.3% | 4.7% | 3.2% | 10.6% | 1.21 (0.85–1.72) |
+| Poisoning | 7.2% | 12.0% | 8.1% | 1.1% | 2.1% | 1.18 (0.81–1.73) |
+| Battery (text) | 1.6% | 1.7% | 0% | 1.1% | 2.1% | 1.08 (0.48–2.41) |
+| Seizure (text) | 5.0% | 3.4% | 2.3% | 6.5% | 9.0% | 0.88 (0.58–1.32) |
+| Admitted | 7.9% | 7.4% | 9.3% | 10.8% | 14.3% | 0.74 (0.55–1.00) |
+| Home | 49.3% | 39.4% | 39.5% | 62.4% | 48.7% | 1.06 (0.95–1.18) |
+| Sports or recreation | 3.8% | 4.6% | 14.0% | 0% | 5.3% | 0.68 (0.44–1.06) |
+
+Magnets, window falls, drowning and wandering are too rare in these groups to compare.
+
+**This changes the reading of the earlier table.** Against peers with no condition recorded,
+autism-mention cases showed 4–8 times more swallowing, poisoning, batteries and seizures. Against
+other conditions recorded the same way, **most of that excess disappears.** Swallowed objects,
+poisoning, batteries and seizures are about as common in ADHD, Down syndrome, CP and
+developmental-delay notes. So the big earlier ratios mostly describe *what a condition-mention
+note looks like*, not something specific to autism.
+
+**What survives:**
+- head-banging, about 2 times the other conditions (ADHD is close behind);
+- fewer fractures.
+
+The comparison groups are small, so the confidence intervals are wide. The prevention messages
+about batteries, poisons and swallowed objects still stand, but as messages for children with
+neurodevelopmental conditions generally, not for autism specifically.
