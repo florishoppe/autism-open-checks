@@ -3,6 +3,12 @@
 Small, reproducible analyses of public data on questions that matter to autistic people and their
 families, shared so that researchers can check, reuse or extend them.
 
+**Why this exists.** I'm a family member of an autistic child, not a researcher. This is an
+experiment in using today's AI tools to be of some real use in this field. The idea is to look for
+under-explored questions, run the cheap first checks that busy researchers rarely have time for, and
+hand over the results openly. If a check turns up something worth pursuing, the hope is that people
+with the right expertise and data take it further.
+
 > **Please read first.** These analyses were done by a family member of an autistic child, not a
 > researcher or clinician, with substantial help from an AI assistant (Anthropic's Claude). That
 > assistant wrote much of the code and text. Citations were checked against PubMed, Europe PMC and
