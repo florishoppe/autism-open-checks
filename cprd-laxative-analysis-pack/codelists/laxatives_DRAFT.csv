@@ -1,0 +1,20 @@
+class,bnf_section,substance,routes,notes
+laxative,1.6.1 bulk-forming,ispaghula husk,oral,
+laxative,1.6.1 bulk-forming,methylcellulose,oral,
+laxative,1.6.1 bulk-forming,sterculia,oral,
+laxative,1.6.2 stimulant,bisacodyl,oral; rectal,
+laxative,1.6.2 stimulant,senna (sennosides),oral,
+laxative,1.6.2 stimulant,sodium picosulfate,oral,exclude bowel-cleansing preparations (BNF 1.6.5) used before procedures
+laxative,1.6.2 stimulant,docusate sodium,oral; rectal,also listed as a softener
+laxative,1.6.2 stimulant,glycerol,rectal (suppository),
+laxative,1.6.3 faecal softener,arachis oil,rectal (enema),
+laxative,1.6.3 faecal softener,liquid paraffin,oral,
+laxative,1.6.4 osmotic,macrogol (polyethylene glycol) with electrolytes,oral,expected to dominate in children
+laxative,1.6.4 osmotic,lactulose,oral,
+laxative,1.6.4 osmotic,magnesium hydroxide,oral,
+laxative,1.6.4 osmotic,phosphate (rectal),rectal (enema),
+laxative,1.6.4 osmotic,sodium citrate (rectal),rectal (micro-enema),
+laxative,1.6.7 other,linaclotide,oral,adults; licensed for IBS-C
+laxative,1.6.7 other,prucalopride,oral,adults
+laxative,1.6.7 other,lubiprostone,oral,adults
+laxative,1.6.6 peripheral opioid-receptor antagonists,naloxegol; methylnaltrexone,oral; injection,consider excluding: opioid-induced constipation is a cascade signal

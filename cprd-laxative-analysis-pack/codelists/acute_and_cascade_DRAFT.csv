@@ -1,0 +1,9 @@
+label,type_or_class,definition,source_to_use
+challenging behaviour,cb,the study's own challenging-behaviour code list (Millington 2026 supplementary file 1),study code list
+emergency or out-of-hours contact,ed,A&E attendance codes; out-of-hours consultation; ambulance attendance,study team
+injury,injury,injury and self-harm codes recorded in primary care,study team
+psychotropic start or increase,psychotropic_up,new issue or dose increase of an antipsychotic; antidepressant; anxiolytic; hypnotic (excluding melatonin); or anticonvulsant used for mood,study team (dose increase needs quantity/strength logic)
+antipsychotic,antipsychotic,BNF 4.2.1 and 4.2.2,cascade and subgroup flag
+opioid,opioid,BNF 4.7.2 (and codeine-containing 4.7.1 combinations),cascade flag
+anticholinergic,anticholinergic,drugs with high anticholinergic burden (e.g. oxybutynin; tricyclics; hyoscine),cascade flag
+melatonin,melatonin,melatonin (all products),record as covariate; the panel flagged its start date as a possible confounder
