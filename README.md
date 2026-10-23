@@ -23,6 +23,7 @@ with the right expertise and data take it further.
 | [`neiss-autism-injuries/`](neiss-autism-injuries/FEASIBILITY.md) | What injuries bring people with autism mentioned in their notes to US emergency departments? (NEISS narratives, 2013–2024) | Feasibility and descriptive comparison done. Coding by a single AI coder; needs a human second coder |
 | [`seizure-alarm-stereotypy/`](seizure-alarm-stereotypy/RESULTS.md) | Does OpenSeizureDetector's default algorithm false-alarm on rocking and hand-flapping? | Run on public data (6 participants). Mostly no; flapping somewhat more |
 | [`cprd-laxative-analysis-pack/`](cprd-laxative-analysis-pack/README.md) | Is starting a laxative followed by fewer recorded challenging-behaviour events? A within-person design for UK primary-care records | Code and plan only, tested on simulated data. Not run on real data |
+| [`placebo-ae-atlas/`](placebo-ae-atlas/README.md) | How often are side effects recorded in the placebo arms of autism drug and supplement trials? (ClinicalTrials.gov posted results) | Version 0.1: 89 trials. Term mapping and arm roles need review by someone with pharmacovigilance experience |
 
 ## Headline findings
 
@@ -40,6 +41,10 @@ with the right expertise and data take it further.
   - OSD's default algorithm flagged rocking and flapping about as often as ordinary activity:
     1.4 against 1.1 alarm onsets per hour.
   - Rocking (about 1 Hz) falls mostly below its 3–8 Hz band.
+- **Placebo-arm side effects:**
+  - 89 placebo-controlled autism trials with posted results; 2,905 people on placebo.
+  - Among children on placebo, irritability or aggression is recorded as a side effect for about 11%, colds and similar infections about 12%, stomach complaints about 10% and sleep problems about 7%. These are minimums, because many trials list only events above 5%.
+  - Irritability is often the very thing the drug is meant to treat, so a drug-arm irritability signal means little without this placebo rate.
 
 ## Data sources
 
@@ -51,6 +56,8 @@ with the right expertise and data take it further.
   Not redistributed here; the script reads the original files.
 - **OpenSeizureDetector:** algorithm re-implemented from
   [OpenSeizureDetector/Android_Pebble_SD](https://github.com/OpenSeizureDetector/Android_Pebble_SD).
+- **ClinicalTrials.gov:** results downloaded through the public API v2 (US National Library of
+  Medicine). This repository includes the extracted tables, not the raw JSON.
 
 ## Reproducing
 

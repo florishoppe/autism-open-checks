@@ -1,0 +1,37 @@
+nct	group_title	new_role	reason
+NCT03715153	Placebo - Double-blind Period (Week 0-26)	placebo	double-blind placebo period (bumetanide)
+NCT03715153	Placebo/S95008 - Open-Label Extension Period (Week 26-52)	exclude	open-label extension, on drug
+NCT03715153	S95008/S95008 - Open-Label Extension Period (Week 26-52)	exclude	open-label extension
+NCT03504917	Placebo Blinded Treatment Period	placebo	blinded placebo period (balovaptan)
+NCT03504917	Placebo in Open Label Extension Treatment Period	exclude	open-label extension
+NCT01944046	Placebo Nasal Spray: Double-blind Phase	placebo	double-blind placebo phase (oxytocin)
+NCT01944046	Placebo Nasal Spray: Open Label Phase	exclude	open-label phase
+NCT01227668	Placebo (Phase 2 Only)	placebo_withdrawal	randomised withdrawal after open-label aripiprazole
+NCT00870727	Arm 2. Placebo Oral Capsule	placebo_withdrawal	randomised withdrawal (maintenance) after open-label aripiprazole
+NCT00872898	Placebo - Part Two, Double-Blind Treatment	placebo_withdrawal	randomised withdrawal after open-label memantine
+NCT03370510	Pivotal Response Treatment (PRT)/Placebo Nasal Spray	placebo	placebo spray with behavioural co-intervention in both arms
+NCT02008396	Inactive Placebo With Psychotherapy (Stage 1)	placebo	inactive placebo with psychotherapy in all arms
+NCT03242772	ESDM Informed Parent Coaching + Placebo Oral Tablet	placebo	placebo tablet with parent coaching in both arms
+NCT03204786	Placebo-Placebo Group - Treatment Period 1	placebo	placebo in period 1
+NCT03204786	Placebo-Placebo Group - Treatment Period 2	exclude	same participants as period 1 (avoid double counting)
+NCT03204786	Placebo-Vasopressin Group - Treatment Period 1	placebo	placebo-first sequence, period 1
+NCT03204786	Placebo-Vasopressin Group - Treatment Period 2	exclude	switched to vasopressin, open to sequence
+NCT03204786	Vasopressin-Vasopressin Group - Treatment Period 2	exclude	same participants as period 1
+NCT03204786	Open-label Vasopressin	exclude	open-label
+NCT01308749	Sequence 2: Placebo: Oxytocin Period 1 Weeks 0-8	placebo	placebo-first sequence, period 1
+NCT01308749	Sequence 2: Placebo:Oxytocin Period 2	exclude	switched to oxytocin
+NCT01308749	Sequence 1: Oxytocin:Oxytocin Period 2, Weeks 8-16	exclude	same participants as period 1
+NCT02901431	Open Label Extension Part (Study Part 3) - Placebo	exclude	open-label extension
+NCT04089579	MSC (Mesenchymal Stromal Cells), Received Second Infusion Placebo, 6-12 Months	exclude	received active infusion earlier
+NCT04089579	MSC (Mesenchymal Stromal Cells), Did Not Receive Second Infusion Placebo, 6-12 Months	exclude	received active infusion earlier
+NCT04089579	Placebo, Received Second Infusion MSC, 6-12 Months	exclude	crossover to active
+NCT04089579	Placebo, Did Not Receive Second Infusion MSC, 6-12 Months	exclude	second period, same participants
+NCT02847182	Placebo Infusion - 12 Months	exclude	second period after crossover, same participants
+NCT02847182	Cord Blood Infusion - 12 Months	exclude	second period after crossover
+NCT05307744	Normal Control	exclude	typically developing controls, untreated
+NCT01972074	Control Group	exclude	typically developing controls
+NCT01777542	Off Treatment	exclude	off-treatment period
+NCT04475848	*	exclude	phase 1 SAD/MAD study, appears to enrol healthy volunteers
+NCT04053036	*	exclude	laboratory drug-response study, appears to enrol healthy volunteers
+NCT04895605	*	exclude	device trial (placebo laser), not drug or supplement
+NCT03379662	*	exclude	device trial (placebo laser), not drug or supplement

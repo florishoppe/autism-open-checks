@@ -1,0 +1,1366 @@
+term	category	matched_text	n_trials
+Headache	headache	headache	57
+Vomiting	vomiting	vomit	43
+Constipation	constipation	constipat	40
+Cough	cough	cough	37
+Diarrhea	diarrhoea	diarrh	32
+Anxiety	anxiety	anxi	28
+Fatigue	somnolence_sedation_fatigue	fatigue	28
+Irritability	irritability_agitation_aggression	irritab	27
+Nausea	nausea	nausea	27
+Aggression	irritability_agitation_aggression	aggress	26
+Rash	rash_skin	rash	24
+Fever	pyrexia	fever	22
+Insomnia	insomnia_sleep_disturbance	insomnia	21
+Pyrexia	pyrexia	pyrexia	17
+Enuresis	enuresis	enuresis	16
+Upper respiratory tract infection	respiratory_ent_infection_cold	upper respiratory	16
+Dizziness	dizziness	dizz	15
+Gastroenteritis	gastroenteritis	gastroenteritis	15
+Diarrhoea	diarrhoea	diarrh	14
+Agitation	irritability_agitation_aggression	agitat	13
+Nasopharyngitis	respiratory_ent_infection_cold	nasopharyng	13
+Somnolence	somnolence_sedation_fatigue	somnolen	13
+Decreased Appetite	appetite_decreased	decreased appetite	12
+Abdominal pain	abdominal_pain_discomfort	abdominal pain	11
+Eczema	rash_skin	eczema	11
+Increased Appetite	appetite_increased	increased appetite	11
+Increased appetite	appetite_increased	increased appetite	11
+Lethargy	somnolence_sedation_fatigue	letharg	11
+Decreased appetite	appetite_decreased	decreased appetite	10
+Epistaxis	other		10
+Nasal Congestion	respiratory_ent_infection_cold	nasal congestion	10
+Sedation	somnolence_sedation_fatigue	sedat	10
+Tremor	tremor_eps	tremor	10
+Ear Infection	respiratory_ent_infection_cold	ear infection	9
+Seizure	seizure	seizure	9
+Sinusitis	respiratory_ent_infection_cold	sinusitis	9
+Ear infection	respiratory_ent_infection_cold	ear infection	8
+Sore throat	respiratory_ent_infection_cold	sore throat	8
+Stereotypy	other		8
+Depression	low_mood	depression	7
+Drowsiness	somnolence_sedation_fatigue	drows	7
+Dry Mouth	other		7
+Influenza	respiratory_ent_infection_cold	influenza	7
+Myalgia	other		7
+Otitis media	respiratory_ent_infection_cold	otitis	7
+Rhinitis	respiratory_ent_infection_cold	rhinitis	7
+Abdominal pain upper	abdominal_pain_discomfort	abdominal pain	6
+Akathisia	tremor_eps	akathisia	6
+Conjunctivitis	other		6
+Dry mouth	other		6
+Hyperactivity	hyperactivity_restlessness	hyperactiv	6
+Infection	other		6
+Nasal congestion	respiratory_ent_infection_cold	nasal congestion	6
+Nightmares	insomnia_sleep_disturbance	nightmare	6
+Pharyngitis	respiratory_ent_infection_cold	pharyngitis	6
+Sadness	low_mood	sadness	6
+Seizures	seizure	seizure	6
+Thirst	other		6
+Upper Respiratory Infection	respiratory_ent_infection_cold	upper respiratory	6
+Acne	other		5
+Change in speech	other		5
+Difficulty falling asleep	insomnia_sleep_disturbance	difficulty falling asleep	5
+Dyspepsia	abdominal_pain_discomfort	dyspepsia	5
+Flatulence	abdominal_pain_discomfort	flatulence	5
+Oropharyngeal pain	respiratory_ent_infection_cold	oropharyngeal pain	5
+Pneumonia	other		5
+Pruritus	rash_skin	prurit	5
+Psychomotor hyperactivity	hyperactivity_restlessness	psychomotor hyperactiv	5
+Restlessness	hyperactivity_restlessness	restless	5
+Runny Nose	respiratory_ent_infection_cold	runny nose	5
+Self-injurious behavior	self_injury	self-injur	5
+Suicidal ideation	other		5
+Upper respiratory infection	respiratory_ent_infection_cold	upper respiratory	5
+Viral infection	other		5
+Weight gain	weight_increased	weight gain	5
+Weight increased	weight_increased	weight increase	5
+Abdominal Discomfort	abdominal_pain_discomfort	abdominal discomfort	4
+Accidental Injury	other		4
+Appetite decrease	appetite_decreased	appetite decrease	4
+Appetite increase	appetite_increased	appetite increase	4
+Back pain	other		4
+Bruising	other		4
+Cold	respiratory_ent_infection_cold	cold	4
+Dehydration	other		4
+Dental caries	other		4
+Depressed Mood	low_mood	depressed mood	4
+Depressed mood	low_mood	depressed mood	4
+Ear pain	other		4
+Earache	other		4
+Encopresis	other		4
+Fall	other		4
+Increased motor activity	hyperactivity_restlessness	increased motor activity	4
+Initial Insomnia	insomnia_sleep_disturbance	initial insomnia	4
+Injury	other		4
+irritability	irritability_agitation_aggression	irritab	4
+Nasal congestion or Cold	respiratory_ent_infection_cold	nasal congestion	4
+Pain	other		4
+Pollakiuria	other		4
+Runny nose	respiratory_ent_infection_cold	runny nose	4
+Sedation/Drowsiness	somnolence_sedation_fatigue	sedat	4
+Sleep disturbance	insomnia_sleep_disturbance	sleep disturb	4
+Sneezing	respiratory_ent_infection_cold	sneez	4
+Suicidal Ideation	other		4
+Syncope	other		4
+Tic	other		4
+Tics	other		4
+Urticaria	rash_skin	urticaria	4
+Abdominal discomfort	abdominal_pain_discomfort	abdominal discomfort	3
+Abdominal Pain	abdominal_pain_discomfort	abdominal pain	3
+Allergies	other		3
+Anxiety/Nervousness/Worry	anxiety	anxi	3
+Arthralgia	other		3
+Asthma	other		3
+Bloody nose	other		3
+Bronchitis	respiratory_ent_infection_cold	bronchitis	3
+Concussion	other		3
+COVID-19	other		3
+Depressive Affect	low_mood	depressive	3
+Difficulty Falling Asleep	insomnia_sleep_disturbance	difficulty falling asleep	3
+Disturbance in attention	other		3
+Dry Skin	other		3
+Emotional outburst	irritability_agitation_aggression	outburst	3
+Eye pain	other		3
+Flu	respiratory_ent_infection_cold	flu	3
+Flu or upper respiratory problems	respiratory_ent_infection_cold	flu	3
+Flushing	other		3
+Fracture	other		3
+Gastroenteritis viral	gastroenteritis	gastroenteritis	3
+Headaches	headache	headache	3
+Hypersensitivity	other		3
+Hypersomnia	somnolence_sedation_fatigue	hypersomnia	3
+Hypoacusis	other		3
+Hypoglycemia	other		3
+Inattention	other		3
+Increased energy	hyperactivity_restlessness	increased energy	3
+Increased Energy	hyperactivity_restlessness	increased energy	3
+Increased Motor Activity	hyperactivity_restlessness	increased motor activity	3
+Indigestion	other		3
+Initial insomnia	insomnia_sleep_disturbance	initial insomnia	3
+insomnia	insomnia_sleep_disturbance	insomnia	3
+Intentional self-injury	self_injury	self-injur	3
+Intermittent nosebleed	other		3
+Interrupted sleep/other sleep problems	insomnia_sleep_disturbance	sleep problem	3
+Ligament sprain	other		3
+Localized rash	rash_skin	rash	3
+Loss of appetite	appetite_decreased	loss of appetite	3
+Middle Insomnia	insomnia_sleep_disturbance	middle insomnia	3
+Nasal Discomfort	other		3
+Nose Bleed	other		3
+Oropharyngeal Pain	respiratory_ent_infection_cold	oropharyngeal pain	3
+Pharyngitis streptococcal	respiratory_ent_infection_cold	pharyngitis	3
+Rhinorrhea	respiratory_ent_infection_cold	rhinorrh	3
+Seasonal Allergy	other		3
+Social withdrawal	other		3
+Sore Throat	respiratory_ent_infection_cold	sore throat	3
+Stomach or abdominal discomfort	abdominal_pain_discomfort	abdominal discomfort	3
+Stomachache	abdominal_pain_discomfort	stomachache	3
+Sweating	other		3
+Tiredness/fatigue	somnolence_sedation_fatigue	tired	3
+Toothache	other		3
+Upper Respiratory Tract Infection	respiratory_ent_infection_cold	upper respiratory	3
+Weight loss	weight_decreased	weight loss	3
+Wheezing	other		3
+Accidental injury	other		2
+Accidental overdose	other		2
+Adenoidectomy	other		2
+Affect lability	irritability_agitation_aggression	affect labil	2
+aggression	irritability_agitation_aggression	aggress	2
+AGGRESSION	irritability_agitation_aggression	aggress	2
+agitation	irritability_agitation_aggression	agitat	2
+Alanine aminotransferase increased	other		2
+Allergic reaction	other		2
+Allergies Not Otherwise Specified	other		2
+Alopecia	other		2
+Anger	irritability_agitation_aggression	anger	2
+Anorexia	appetite_decreased	anorexia	2
+Apathy	other		2
+Appendicitis	other		2
+Arthropod bite	other		2
+Arthropod sting	other		2
+Back Pain	other		2
+Blurred Vision	other		2
+Body-focused repetitive behavior	other		2
+Bruxism	other		2
+Bug Bite	other		2
+Cavity	other		2
+Cellulitis	other		2
+Cold/Infection/Allergy	respiratory_ent_infection_cold	cold	2
+Colitis	other		2
+Compulsions	other		2
+Concentration difficulty	other		2
+Conjunctivitis allergic	other		2
+Contusion	other		2
+cough	cough	cough	2
+Croup	respiratory_ent_infection_cold	croup	2
+Decreased activity	other		2
+Decreased Energy	other		2
+DIARRHOEA	diarrhoea	diarrh	2
+Difficulty sleeping	insomnia_sleep_disturbance	difficulty sleep	2
+Dilated pupils	other		2
+Disinhibition	other		2
+Dizziness/faintness	dizziness	dizz	2
+DROOLING	tremor_eps	drooling	2
+Drug hypersensitivity	other		2
+Dyskinesia	tremor_eps	dyskines	2
+Dysphagia	other		2
+Dysuria	other		2
+Ear discomfort	other		2
+Early morning awakening	other		2
+Echolalia	other		2
+enuresis	enuresis	enuresis	2
+ENURESIS	enuresis	enuresis	2
+Excitement/Agitation	irritability_agitation_aggression	agitat	2
+Eye irritation	other		2
+Facial bones fracture	other		2
+FATIGUE	somnolence_sedation_fatigue	fatigue	2
+fatigue	somnolence_sedation_fatigue	fatigue	2
+fever	pyrexia	fever	2
+Gait disturbance	other		2
+Gastritis	other		2
+Gastrointestinal upset	abdominal_pain_discomfort	gastrointestinal upset	2
+Hand flapping	other		2
+HEADACHE	headache	headache	2
+Hives	other		2
+Hordeolum	other		2
+Hyperphagia	appetite_increased	hyperphagia	2
+Hypersalivation	other		2
+Hypertalkativeness	other		2
+Hypertension	other		2
+Impulsive behavior	hyperactivity_restlessness	impulsiv	2
+Impulsivity	hyperactivity_restlessness	impulsiv	2
+INCREASED APPETITE	appetite_increased	increased appetite	2
+Increased Hyperactivity	hyperactivity_restlessness	hyperactiv	2
+Increased Irritability	irritability_agitation_aggression	irritab	2
+Increased thirst	other		2
+Infusion related reaction	other		2
+INSOMNIA	insomnia_sleep_disturbance	insomnia	2
+Interrupted sleep	other		2
+Irritable	irritability_agitation_aggression	irritab	2
+Itching	other		2
+Leukocytosis	other		2
+Lightheadedness	other		2
+Localized Rash	rash_skin	rash	2
+Loose stools	other		2
+Lymphadenopathy	other		2
+Middle insomnia	insomnia_sleep_disturbance	middle insomnia	2
+mood lability	other		2
+Mood swings	irritability_agitation_aggression	mood swing	2
+Motion Sickness	other		2
+Mouth Pain	other		2
+Muscle rigidity	tremor_eps	muscle rigidity	2
+Musculoskeletal Pain	other		2
+NASAL CONGESTION	respiratory_ent_infection_cold	nasal congestion	2
+NASOPHARYNGITIS	respiratory_ent_infection_cold	nasopharyng	2
+Nausea/Vomiting	vomiting	vomit	2
+Negativism	other		2
+Nightmare	insomnia_sleep_disturbance	nightmare	2
+Nosebleed	other		2
+Other	other		2
+Other Pain	other		2
+Otitis Media	respiratory_ent_infection_cold	otitis	2
+Pain in extremity	other		2
+Pain in Extremity	other		2
+Palpitations	other		2
+Panic attack	anxiety	panic	2
+Perseveration	other		2
+Photophobia	other		2
+Polydipsia	other		2
+Polyuria	other		2
+Poor quality sleep	insomnia_sleep_disturbance	poor quality sleep	2
+Precocious Puberty	other		2
+Psychological	other		2
+Psychomotor Hyperactivity	hyperactivity_restlessness	psychomotor hyperactiv	2
+PYREXIA	pyrexia	pyrexia	2
+rash	rash_skin	rash	2
+Repetitive Behaviors	other		2
+Repetitive Language	other		2
+Restlessness/Agitation including fidgety	irritability_agitation_aggression	agitat	2
+Rhinorrhoea	respiratory_ent_infection_cold	rhinorrh	2
+Scarlet fever	pyrexia	fever	2
+Seasonal allergy	other		2
+SEDATION	somnolence_sedation_fatigue	sedat	2
+Self injurious behaviour	self_injury	self injur	2
+Sensory Sensitivity	other		2
+Sinus condition	other		2
+Skin Infection	other		2
+skin rash	rash_skin	rash	2
+Sleep	other		2
+Sleep Apnea	other		2
+Sleep disorder	insomnia_sleep_disturbance	sleep disorder	2
+Sleep Disturbance	insomnia_sleep_disturbance	sleep disturb	2
+SOMNOLENCE	somnolence_sedation_fatigue	somnolen	2
+Speech disorder	other		2
+Stomach ache	abdominal_pain_discomfort	stomach ache	2
+Stomach Discomfort	abdominal_pain_discomfort	stomach discomfort	2
+Stomatitis	other		2
+Strep throat	other		2
+Streptococcal infection	other		2
+Stuttering	other		2
+Swelling	other		2
+Tachycardia	other		2
+Teeth grinding	other		2
+Thrombocytopenia	other		2
+Tiredness/Fatigue	somnolence_sedation_fatigue	tired	2
+Tonsillectomy	other		2
+TREMOR	tremor_eps	tremor	2
+Unspecified or not otherwise listed psych	other		2
+UPPER RESPIRATORY TRACT INFECTION	respiratory_ent_infection_cold	upper respiratory	2
+Urinary Tract Infection	other		2
+Urinary tract infection	other		2
+Viral upper respiratory tract infection	respiratory_ent_infection_cold	upper respiratory	2
+Vision blurred	other		2
+VOMITING	vomiting	vomit	2
+Weight decreased	weight_decreased	weight decrease	2
+Weight Gain	weight_increased	weight gain	2
+	other		1
+# of participants with any adverse event	other		1
+# who withdrew due to AE	other		1
+# with moderate adverse event	other		1
+# with severe adverse event	other		1
+Abdominal Cramping	other		1
+Abdominal distension	abdominal_pain_discomfort	abdominal distension	1
+Abdominal Pain Or Discomfort	abdominal_pain_discomfort	abdominal pain	1
+ABDOMINAL PAIN UPPER	abdominal_pain_discomfort	abdominal pain	1
+Abdominal Pain Upper	abdominal_pain_discomfort	abdominal pain	1
+Abdominal Pain, upper	abdominal_pain_discomfort	abdominal pain	1
+Abnormal Dreams	insomnia_sleep_disturbance	abnormal dream	1
+Abnormal dreams	insomnia_sleep_disturbance	abnormal dream	1
+Abnormal ECG - Prolonged QT	other		1
+Abnormal Electroencephalogram	other		1
+Abnormal Feces	other		1
+Abnormal platelet count	other		1
+Abnormal thoughts	other		1
+Abnormal Urinalysis	other		1
+Abnormal WBC count	other		1
+Abnormal Weight Gain	weight_increased	weight gain	1
+Abnormal Weight Loss	weight_decreased	weight loss	1
+Abrasion on chin	other		1
+Abscess	other		1
+Abscess limb	other		1
+Accidental arm injury	other		1
+Acne/Pimples	other		1
+Acute kidney injury	other		1
+Acute lymphocytic leukaemia	other		1
+Advanced Bone Age	other		1
+Adverse reaction to noxious oil smell	other		1
+Affect Lability	irritability_agitation_aggression	affect labil	1
+Affect liability	other		1
+Affective Disorder	other		1
+Aggression Or Hostility	irritability_agitation_aggression	aggress	1
+Aggression towards others	irritability_agitation_aggression	aggress	1
+Aggressive	irritability_agitation_aggression	aggress	1
+Agitated/ Irritable	irritability_agitation_aggression	agitat	1
+AKATHISIA	tremor_eps	akathisia	1
+Alanine Aminotransferase Increased	other		1
+Allergic Hypersensitivity	other		1
+Allergic reaction in eye	other		1
+Allergic rhinitis	respiratory_ent_infection_cold	rhinitis	1
+Allergic transfusion reaction	other		1
+allergies	other		1
+amylase increased	other		1
+Anaemia	other		1
+Anal Fissure	other		1
+Anal incontinence	other		1
+Anal Picking	other		1
+Anaphylactic Reaction	other		1
+Anger or irritability	irritability_agitation_aggression	anger	1
+Anger Or Irritability	irritability_agitation_aggression	anger	1
+Angioedema	other		1
+Anorectal Discomfort	other		1
+anxiety	anxiety	anxi	1
+Anxious/ Worried	anxiety	anxi	1
+Anxious/Worried	anxiety	anxi	1
+Anxious/worries	anxiety	anxi	1
+Apathy Or Boredom	other		1
+Aphthous stomatitis	other		1
+Appetite Decrease	appetite_decreased	appetite decrease	1
+Appetite disorder	other		1
+Appetite Increase	appetite_increased	appetite increase	1
+appetite increase/decrease, taste abnormality, increased thirst, and gastrointestinal other	appetite_increased	appetite increase/decrease, taste abnormality, increase	1
+Aspiration	other		1
+Asthenia	somnolence_sedation_fatigue	asthenia	1
+Asthma Flare	other		1
+Athlete's foot	other		1
+Atonic seizures	seizure	seizure	1
+Attention deficit/hyperactivity disorder	hyperactivity_restlessness	hyperactiv	1
+Attention-seeking behaviour	other		1
+Autism	other		1
+Autism-Related Behaviors	other		1
+Aversion	other		1
+Bed Wetting	enuresis	bed wetting	1
+Behavior Worse	other		1
+Behavioral/personality changes	other		1
+Bilirubinuria	other		1
+Bipolar disorder	other		1
+Bites Fingernails	other		1
+Biting clothing	other		1
+Blepharospasm	other		1
+Blinking Eyes	other		1
+Bloating	other		1
+Blood creatinine increased	other		1
+Blood glucose increased	other		1
+Blood in stool	other		1
+Blood insulin level increased	other		1
+Blood pressure increase	other		1
+Blood triglyceride level increased	other		1
+blood TSH increased	other		1
+Blood uric acid increased	other		1
+Blood urine present	other		1
+Bloody nose/nosebleed	other		1
+Blurred vision	other		1
+Body Ache	other		1
+Body pain/swelling/generalized pain NOS	other		1
+Body tinea	other		1
+Boil on Glutus	other		1
+Bradykinesia	other		1
+Brain oedema	other		1
+Breast buds developed	other		1
+Breast Pain	other		1
+breast pain swelling, discharge from nipples, menstrual irregularity, cramps, premenstral tension	other		1
+Breast swelling	other		1
+Breasts tender	other		1
+Breathing problems	other		1
+Broke left wrist	other		1
+Broken bone	other		1
+Bronchiolitis	other		1
+Bronchospasm	other		1
+bruise	other		1
+Bruising at injection site	other		1
+Bruising easily	other		1
+Bruising/contusion	other		1
+Bug Bite Induced Swelling	other		1
+Bump on back of head	other		1
+Burned feet	other		1
+Burning and irritation of sinuses	other		1
+Burning in throat after nasal spray	other		1
+Bursitis infective	other		1
+Candida infection	other		1
+Canker sore	other		1
+Car Accident	other		1
+Cardiac arrest	other		1
+Cardiac murmur	other		1
+Cardiac Rhythm Abnormality	other		1
+Catheter Site Pain	other		1
+Catheter Site Swelling	other		1
+Cerebral ischaemia	other		1
+Change in appetite	other		1
+Change in Bowel Habits	other		1
+Change in sleep	other		1
+Change in Stool	other		1
+Change in Urine Colour	other		1
+Chapped lips	other		1
+Chest	other		1
+Chest or breathing	other		1
+chest pain	other		1
+Chest pain	other		1
+Chest pain (exercise induced)	other		1
+Chest Pain Or Discomfort	other		1
+chest pain, hypotension, Tachycardia, EKG abnormality, and other cardiovascular	other		1
+Chest tightness	other		1
+Chest Tightness, mild excitement, and nausea	nausea	nausea	1
+Chicken pox	other		1
+Chill	other		1
+Chills	other		1
+Cholesterol high	other		1
+Cholesterol, Triglycerides, HDL, And LD Out Of Range Clinically Significant	other		1
+Clavicle fracture	other		1
+Clearing throat	other		1
+Clinically Significant Out Of Range Labs	other		1
+Clostridium Test Positive	other		1
+Clumsy	other		1
+cold	respiratory_ent_infection_cold	cold	1
+Cold hand	other		1
+Cold Hands and Feet	other		1
+cold or unknown virus	respiratory_ent_infection_cold	cold	1
+Cold Sore	other		1
+Cold Sores	other		1
+Cold Symptoms	respiratory_ent_infection_cold	cold	1
+cold symptoms / upper respiratory	respiratory_ent_infection_cold	cold	1
+Cold-like symptoms (i.e. runny nose, stuffy nose, sneezing)	respiratory_ent_infection_cold	cold	1
+Cold/Flu/other systemic infection	respiratory_ent_infection_cold	cold	1
+Completed suicide	other		1
+concentration difficulty and memory problems	other		1
+Confused	other		1
+Confusion	other		1
+confusional state	other		1
+Confusional state	other		1
+Confusional State	other		1
+Congestion	other		1
+Congestion/allergies	other		1
+conjunctivitis	other		1
+Conjunctivitis infective	other		1
+CONSTIPATION	constipation	constipat	1
+Constipation, increased	constipation	constipat	1
+Contact Dermatitis	rash_skin	dermatitis	1
+Cooler body temperature/sweating	other		1
+Coonfusional state	other		1
+Coordination Abnormal	other		1
+COUGH	cough	cough	1
+Cough/Congestion	cough	cough	1
+Coughing	cough	cough	1
+COVID	other		1
+COVID-19 Infection	other		1
+COVID-19 Vaccine Reaction	other		1
+Cow's milk intolerance	other		1
+Cramping	other		1
+Creatinine urine dedreased	other		1
+Croup infectious	respiratory_ent_infection_cold	croup	1
+Crying	irritability_agitation_aggression	crying	1
+Crying spells	irritability_agitation_aggression	crying	1
+crystal urine present	other		1
+Cut	other		1
+Cut on ear from haircut	other		1
+Cuts/Abrasion	other		1
+Cystic Acne	other		1
+Dark urine	other		1
+Data breach	other		1
+Daydreaming	other		1
+Daytime Wetting	enuresis	wetting	1
+Deciduous teeth eruption	other		1
+DECREASED APPETITE	appetite_decreased	decreased appetite	1
+Decreased Dietary Variety	other		1
+Decreased energy	other		1
+Decreased Motivation	other		1
+Decreased motor activity	other		1
+Decreased Motor Activity	other		1
+Decreased verbalization	other		1
+Decreased visual acuity	other		1
+Defiance	other		1
+Defiant behavior	other		1
+Delusion	other		1
+Dental Infection	other		1
+Dermatitis	rash_skin	dermatitis	1
+Dermatitis contact	rash_skin	dermatitis	1
+Dermatitis diaper	rash_skin	dermatitis	1
+Dermatologic Skin Irritation, Sweating, hair problems, and skin other	other		1
+Dermatological	other		1
+Diarrhea, soft bowels, sore stomach	diarrhoea	diarrh	1
+diarrhoea	diarrhoea	diarrh	1
+Difficulty Concentrating	other		1
+difficulty falling asleep	insomnia_sleep_disturbance	difficulty falling asleep	1
+Difficulty hearing	other		1
+difficulty sleeping	insomnia_sleep_disturbance	difficulty sleep	1
+Difficulty staying asleep	other		1
+Difficulty waking up	other		1
+Dilated Pupils	other		1
+Diplopa	other		1
+Disobedience/defiance	other		1
+Distractibility	other		1
+Disturbance In Attention	other		1
+Disturbance in Attention	other		1
+Dizziness after spray and blood draw	dizziness	dizz	1
+Dizziness Postural	dizziness	dizz	1
+Dizzy	dizziness	dizz	1
+Dizzy/Lightheaded	dizziness	dizz	1
+Drooling	tremor_eps	drooling	1
+Drowsiness/Somnolence	somnolence_sedation_fatigue	drows	1
+Drowsiness/Tiredness	somnolence_sedation_fatigue	drows	1
+Dry Eye	other		1
+Dry skin	other		1
+Dry Skin Around Mouth	other		1
+Dry/itchy skin	other		1
+Dysgeusia	other		1
+Dysmenorrhea	other		1
+Dysmenorrhoea	other		1
+Dysphemia	other		1
+Dysphoria	other		1
+Dyspnea	other		1
+Dyspnoea	other		1
+Dystonia	tremor_eps	dystoni	1
+Ear	other		1
+Ear Ache	other		1
+Ear aches/hot ears	other		1
+Ear bleed	other		1
+Ear Congestion	other		1
+Ear congestion	other		1
+Ear Infections	respiratory_ent_infection_cold	ear infection	1
+ear infections	respiratory_ent_infection_cold	ear infection	1
+Ear Pain	other		1
+Ear tube removal	other		1
+earache, poor hearing, Tinnitus, and ear other	other		1
+Early Awakening	other		1
+early morning awakening, interrupted sleep, drowsiness sedation, hallucinations, depression, anxiety	somnolence_sedation_fatigue	drows	1
+Early morning waking	other		1
+Early Repolarisation Syndrome	other		1
+Ears	other		1
+Easily Bruising	other		1
+Echopraxia	other		1
+Ejection fraction decreased	other		1
+Elective Tonsillectomy	other		1
+Elevated Alkaline Phosphatase	other		1
+Elevated heart rate	other		1
+Elevated liver enzymes	other		1
+Emotional disorder	irritability_agitation_aggression	emotional disorder	1
+Emotional Lability	irritability_agitation_aggression	emotional lability	1
+Emotional Upset During Therapy	other		1
+Emotional/tearful	low_mood	tearful	1
+Emotionality	other		1
+Enamel Discoloration	other		1
+Energized	other		1
+Energy	other		1
+Energy Increased	other		1
+Energy increased	other		1
+Energy level	other		1
+Enteritis infectious	other		1
+Enterovirus infection	other		1
+Environmental Allergies, worsened	other		1
+Environmental Allergy	other		1
+Eosinophilia	other		1
+Epiphyseal fracture	other		1
+EPISTAXIS	other		1
+Erythema infection	other		1
+Erythema/swollen eyes	other		1
+Euphoria	other		1
+Euphoria/Giddiness	other		1
+Euphoria/giddiness	other		1
+Euphoric mood	other		1
+Euphoric/Happy	other		1
+Exacerbation of psychiatric symptoms	other		1
+Excessive appetite	other		1
+Excessive drooling	tremor_eps	drooling	1
+Excessive eye blinking	other		1
+Excessive Talking	other		1
+Excitement/ Agitation	irritability_agitation_aggression	agitat	1
+Excoriation	other		1
+External Ear Inflammation	other		1
+Extrapyramidal Disorder	tremor_eps	extrapyramid	1
+EXTRAPYRAMIDAL DISORDER	tremor_eps	extrapyramid	1
+Eye	other		1
+Eye blinking	other		1
+Eye Discomfort	other		1
+Eye disorders - Other, specify	other		1
+Eye infection	other		1
+Eye inflammation	other		1
+Eye Irritation	other		1
+eye irritation, blurred vision, eye other	other		1
+Eye Pain	other		1
+Eye redness	other		1
+Eye Redness	other		1
+Eye Surgery	other		1
+Eye Swelling	other		1
+Eyelid Edema	other		1
+Eyelid thickening	other		1
+Eyes	other		1
+Eyes (burning, watery, teary, aching, etc.)	other		1
+Facial or body tics	other		1
+Facial Swelling	other		1
+Facial swelling	other		1
+Faecal incontinence	other		1
+Falling	other		1
+falling off horse	other		1
+Febrile convulsion	seizure	convuls	1
+Febrile Neutropenia	other		1
+Fecal incontinence	other		1
+Fecal Incontinence	other		1
+Feeling Cold	other		1
+Feeling hot	other		1
+Felt body/joint pain	other		1
+Femur fracture	other		1
+Fever/congestion	pyrexia	fever	1
+Finger Sucking	other		1
+Fingernail picking	other		1
+Flaking scalp	other		1
+Flaky Scalp	other		1
+Flat Affect / No Emotion	other		1
+Flat affect, worsened	other		1
+Flatuence	other		1
+Flu like symptoms	respiratory_ent_infection_cold	flu	1
+Flu/upper respiratory	respiratory_ent_infection_cold	flu	1
+Flu: Diarrhea, Cough, Running Nose	diarrhoea	diarrh	1
+Food allergy	other		1
+Food aversion	other		1
+Food intolerance reaction	other		1
+Food poisoning	other		1
+Food refusal	other		1
+Forgetfulness	other		1
+Frequent bowel movements	other		1
+Frustration	irritability_agitation_aggression	frustrat	1
+Frustration during MRI	irritability_agitation_aggression	frustrat	1
+Frustration tolerance decreased	irritability_agitation_aggression	frustrat	1
+Frustration with app	irritability_agitation_aggression	frustrat	1
+Frustration, cranky, agitation	irritability_agitation_aggression	frustrat	1
+Fungal infection	other		1
+Furuncle	other		1
+Gag Reflex Abnormal	other		1
+Gagging	other		1
+Gait changes/fell	other		1
+Ganglion Cyst	other		1
+Gas	other		1
+gastroenteritis	gastroenteritis	gastroenteritis	1
+GASTROENTERITIS VIRAL	gastroenteritis	gastroenteritis	1
+Gastroenteritis Viral	gastroenteritis	gastroenteritis	1
+Gastroesophageal reflux disease	other		1
+Gastrointestinal	other		1
+Gastrointestinal and eating	other		1
+Gastrointestinal Disorders	abdominal_pain_discomfort	gastrointestinal disorder	1
+Gastrointestinal disorders - Other, specify	abdominal_pain_discomfort	gastrointestinal disorder	1
+Gastrointestinal dyskinetic disorders	other		1
+Gastrointestinal infection	other		1
+Gastrointestinal Issues, Not Otherwise Categorized	other		1
+Gastrointestinal Sounds Abnormal	other		1
+gastrointestinal upset	abdominal_pain_discomfort	gastrointestinal upset	1
+Gastrointestinal viral infection	other		1
+Gastrointestinal virus	other		1
+Gastrooesophageal Reflux Disease	other		1
+Gastrostomy Tube Replacement	other		1
+Generalized rash	rash_skin	rash	1
+generalized tonic-clonic seizure	seizure	seizure	1
+Genital	other		1
+genital discomfort, increased/decreased libido and genitourinary other	other		1
+Genital infection	other		1
+Genital irritation	other		1
+Genitourinary	other		1
+GI Symptoms	other		1
+GI upset	other		1
+Gingival Bleeding	other		1
+Gingivitis	other		1
+Glomerular filtration rate decreased	other		1
+Glossitis	other		1
+Gluten sensitivity	other		1
+Gray matter heterotopia	other		1
+Greater awakeness	other		1
+Greater calmness	other		1
+Growing Pains	other		1
+Gum Pain	other		1
+Gynaecomastia	other		1
+Hair loss	other		1
+Hair or skin pulling	other		1
+Hair problems	other		1
+Hair pulling	other		1
+Hallucination	other		1
+Hand Foot Mouth Disease	other		1
+Hand Mouth Foot Disease	other		1
+Hand Movements	other		1
+Hand wringing	other		1
+Hand, Foot, and Mouth Disease	other		1
+Hand-foot-and-mouth disease	other		1
+Hashimoto thyroiditis	other		1
+Head Banging	self_injury	head bang	1
+Head Cold	respiratory_ent_infection_cold	cold	1
+headache	headache	headache	1
+headache, dizziness, akathisia, tremor, tic movements, slurred speech, and confusion	headache	headache	1
+Headache, migraine, retinal migraine	headache	headache	1
+Heart	other		1
+Heat illness	other		1
+Hematuria	other		1
+Hemorrhoids	other		1
+high fever/pneumonia	pyrexia	fever	1
+Hoarding	other		1
+Hospitalization for dehydration	other		1
+Hostility	irritability_agitation_aggression	hostil	1
+Hydrocele	other		1
+hyperactivity	hyperactivity_restlessness	hyperactiv	1
+Hyperactivity, worsened	hyperactivity_restlessness	hyperactiv	1
+Hyperactivity/Impulsivity	hyperactivity_restlessness	hyperactiv	1
+Hyperacusis	other		1
+Hypercalciuria	other		1
+Hyperfocused	other		1
+Hyperhidrosis	other		1
+Hyperkalaemia	other		1
+Hyperpigmentation	other		1
+HYPERSOMNIA	somnolence_sedation_fatigue	hypersomnia	1
+Hypersomnolence	somnolence_sedation_fatigue	somnolen	1
+Hypokalaemia	other		1
+Hypotension	other		1
+Hypothyroidism	other		1
+Hypoxia	other		1
+Impulse-Control Disorder	other		1
+Impulsive Behavior	hyperactivity_restlessness	impulsiv	1
+Impulsive behaviour	hyperactivity_restlessness	impulsiv	1
+Inappropriate Affect	other		1
+Inappropriate language	other		1
+Inappropriate laughing	other		1
+Inappropriate Sexual Behavior	other		1
+Incontinence	other		1
+Increase in flatulence	abdominal_pain_discomfort	flatulence	1
+Increase in level of psychiatric symptoms	other		1
+Increase in pica	other		1
+Increase of verbal stemming	other		1
+Increased Aggression	irritability_agitation_aggression	aggress	1
+Increased aggression	irritability_agitation_aggression	aggress	1
+Increased aggressions	irritability_agitation_aggression	aggress	1
+Increased Agitation	irritability_agitation_aggression	agitat	1
+Increased agitation	irritability_agitation_aggression	agitat	1
+Increased Anxiety	anxiety	anxi	1
+Increased anxiety	anxiety	anxi	1
+increased appetite	appetite_increased	increased appetite	1
+Increased awareness and social interaction	other		1
+Increased Bed Wetting	enuresis	bed wetting	1
+Increased bowel movements	other		1
+Increased burping	other		1
+Increased chewing/biting	other		1
+Increased drooling	tremor_eps	drooling	1
+Increased ear wax	other		1
+Increased Emotional Lability	irritability_agitation_aggression	emotional lability	1
+Increased Emotionality	other		1
+Increased energy level, hyperactivity	hyperactivity_restlessness	increased energy	1
+Increased eye rolling	other		1
+Increased Flatulence	abdominal_pain_discomfort	flatulence	1
+Increased forgetfulness, irritability, worsening attention	irritability_agitation_aggression	irritab	1
+Increased frequency of bowel movements	other		1
+Increased Frustration	irritability_agitation_aggression	frustrat	1
+Increased gassiness	other		1
+increased hyperactivity	hyperactivity_restlessness	hyperactiv	1
+Increased irritability	irritability_agitation_aggression	irritab	1
+Increased Irritability/Anger/Aggression	irritability_agitation_aggression	irritab	1
+Increased Meltdowns	other		1
+Increased phlegm	other		1
+Increased reflux	other		1
+Increased Repetitive Behavior	other		1
+Increased Repetitive Behaviors	other		1
+Increased Repetitive Language	other		1
+Increased repetitive speech	other		1
+Increased Sadness	low_mood	sadness	1
+Increased Salivation	other		1
+Increased Self Injury	self_injury	self injur	1
+Increased Self-Injurious Behavior	self_injury	self-injur	1
+Increased Self-Stimulating Behavior	other		1
+Increased self-stimulatory behavior	other		1
+Increased sense of smell	other		1
+Increased Sensory Aversions	other		1
+Increased Sensory Seeking Behaviors	other		1
+Increased sensory sensitivity	other		1
+Increased Sleep Difficulty	other		1
+Increased stimming	other		1
+Increased stubbornness	other		1
+Increased Swelling of Feet	other		1
+Increased tantrums	irritability_agitation_aggression	tantrum	1
+Increased Tendency To Bruise	other		1
+Increased Urination	other		1
+Increased urine frequency	other		1
+Infected bites	other		1
+Infected toe nail	other		1
+Infections and Infestations	other		1
+Infections and infestations - Other, specify	other		1
+Infectious	other		1
+Infectious mononucleosis	other		1
+Inflamed Toe	other		1
+Inflammatory Cystic Lesions	other		1
+Influenza like illness	respiratory_ent_infection_cold	influenza	1
+Influenza Type A	respiratory_ent_infection_cold	influenza	1
+Ingrowing nail	other		1
+Ingrown toenail	other		1
+Injection Site Reaction	other		1
+Injection site reaction	other		1
+Injury, Poisoning and Procedural Complications	other		1
+Inpatient stay	other		1
+Insect Bite	other		1
+insomina	other		1
+intentional injury	other		1
+intentional self injury	self_injury	self injur	1
+Intentional Self-Injury	self_injury	self-injur	1
+Intermittent Dyspepsia	abdominal_pain_discomfort	dyspepsia	1
+Interrupted Sleep/Other sleep problems	insomnia_sleep_disturbance	sleep problem	1
+Intranasal Swelling	other		1
+Involuntary Movements	other		1
+Irritability & Agitation	irritability_agitation_aggression	irritab	1
+Irritability (moderate)	irritability_agitation_aggression	irritab	1
+Irritability or Anger	irritability_agitation_aggression	irritab	1
+irritability, suicidal ideas, suicidal behavior, agression, and psychological behavior other	irritability_agitation_aggression	irritab	1
+Irritability/Aggression	irritability_agitation_aggression	irritab	1
+Irritable bowel syndrome	irritability_agitation_aggression	irritab	1
+irritablity	irritability_agitation_aggression	irritab	1
+Itchy Skin	other		1
+Jittery or nervous	anxiety	nervous	1
+Joint injury	other		1
+Joint laxity	other		1
+Joint pain	other		1
+Joint Range Of Motion Decreased	other		1
+Labile Mood	other		1
+Laboratory test abnormal	other		1
+Laceration	other		1
+Lack of consent for caregiver completing form	other		1
+Lack of focus	other		1
+Lacrimation Increased	other		1
+Large and frequent stools	other		1
+Laryngeal discomfort	other		1
+Laryngitis	other		1
+Laryngospasm	other		1
+LDH Out Of Range Clinically Significant	other		1
+Left Knee Injury	other		1
+Leg shaking	other		1
+Less anxiety	other		1
+Less flexibility	other		1
+LETHARGY	somnolence_sedation_fatigue	letharg	1
+Lethargy/decreased energy	somnolence_sedation_fatigue	letharg	1
+Lethargy/Tiredness	somnolence_sedation_fatigue	letharg	1
+Libido Increased	other		1
+Lice infestation	other		1
+Ligament injury	other		1
+Ligament Sprain	other		1
+Light coughing after spray	cough	cough	1
+Light headedness	other		1
+Lightheaded after spray	other		1
+Local Infection	other		1
+Local swelling	other		1
+Local/treatment site reactions and device issues: warmth, tingling, pressure, discomfort, wrinkles	other		1
+Localized left leg swelling	other		1
+Loose Stool	other		1
+Loose stool	other		1
+Loose stool Not diarrhea	diarrhoea	diarrh	1
+Loose tooth	other		1
+Loss of Appetite	appetite_decreased	loss of appetite	1
+Loss of consciousness	other		1
+Loss of tooth	other		1
+Low self esteem	other		1
+Low Tolerance for Frustration	irritability_agitation_aggression	frustrat	1
+Lung Infection	other		1
+Lung infection	other		1
+Malaise	other		1
+Mania Or Hypomania	other		1
+Medial tibial stress syndrome	other		1
+Medical device complication	other		1
+Medical Device Site Dermatitis	rash_skin	dermatitis	1
+Medical Device Site Rash	rash_skin	rash	1
+medical or surgical procedure	other		1
+Meltdowns	other		1
+Menstrual Cramps	other		1
+Menstrual Disorder	other		1
+Metabolic acidosis	other		1
+Metabolism and nutrition disorders - Other, specify	other		1
+Micturition Frequency Decreased	other		1
+Mid sleep awakening	other		1
+Mid-cycle Insomnia	insomnia_sleep_disturbance	insomnia	1
+Mid-sleep awakening	other		1
+Middle Ear Inflammation	other		1
+Migraine	headache	migraine	1
+Mild allergic reaction to medication prescribed not related to the study	other		1
+Mild Dermatitis	rash_skin	dermatitis	1
+Mild diarrhea	diarrhoea	diarrh	1
+Mild nausea	nausea	nausea	1
+Mild transient constipation, diarrhea, and acid reflux	diarrhoea	diarrh	1
+Miliaria	other		1
+Minor Head Injury	other		1
+Molluscum contagiosum	other		1
+Mononucleosis	other		1
+Mood altered	irritability_agitation_aggression	mood altered	1
+Mood changes/irritability	irritability_agitation_aggression	irritab	1
+Mood Dysregulation	other		1
+Mood lability	other		1
+Mood Swings	irritability_agitation_aggression	mood swing	1
+Mood Swings/Lability	irritability_agitation_aggression	mood swing	1
+Mood symptoms: flight anxiety, anxiety attack, worsened depression	low_mood	depression	1
+More Distractible	other		1
+More isolative	other		1
+Motion sickness	other		1
+Motor Tics	other		1
+Mouth	other		1
+Mouth irritation/pain	other		1
+Mouth lips teeth	other		1
+Mouth pain	other		1
+Mouth Sore	other		1
+Mouth Ulcer	other		1
+Mouth Ulcer, Dry mouth, sore tongue, gum problems, Dental problems, and mouth other	other		1
+Mouth ulceration	other		1
+mouthing	other		1
+Mouthing/chewing objects	other		1
+Movement disorder	other		1
+Mucosal infection	other		1
+Mucositis Oral	other		1
+Multiple allergies	other		1
+Multisystem inflammatory syndrome	other		1
+Muscle ache	other		1
+Muscle Aches	other		1
+Muscle Bone joint pain, Dyskinesia, Muscle Rigidity, and Musclualrsketetal other	tremor_eps	dyskines	1
+Muscle cramp/soreness	other		1
+Muscle Pain	other		1
+Muscle spasms	other		1
+Muscle/bone/joint pain/condition	other		1
+Muscular	other		1
+Musculoskeletal	other		1
+Musculoskeletal and movement	other		1
+Musculoskeletal Injury	other		1
+Musculoskeletal pain	other		1
+Musculoskeletal Stiffness	other		1
+Myopia	other		1
+Myringotomy	other		1
+Nail Biting	other		1
+Naps during the day	other		1
+Nasal Cauterization	other		1
+nasal congestion, bloody nose, sore throat, difficulty swallowing, and flu upper respitory	respiratory_ent_infection_cold	nasal congestion	1
+Nasal congestion/allergy symptoms	respiratory_ent_infection_cold	nasal congestion	1
+Nasal congestion/cold	respiratory_ent_infection_cold	nasal congestion	1
+Nasal dryness	other		1
+Nasal irritation/ runny nose	respiratory_ent_infection_cold	runny nose	1
+Nasal Pain	other		1
+nasopharyngitis	respiratory_ent_infection_cold	nasopharyng	1
+Nasopharynigitis	other		1
+NAUSEA	nausea	nausea	1
+Nausea/Vomit/Diarrhea	vomiting	vomit	1
+Nausea/vomitting	vomiting	vomit	1
+Nearsightedness	other		1
+Nervous feeling	anxiety	nervous	1
+Nervous system disorders - Other, specify	other		1
+Nervousness	anxiety	nervous	1
+Neutropenia	other		1
+Neutrophil count decreased	other		1
+Night Sweats	other		1
+Nightmares or Dreams	insomnia_sleep_disturbance	nightmare	1
+Nightmares or vivid dreams	insomnia_sleep_disturbance	nightmare	1
+Nipple swelling	other		1
+No Adverse Events were observed during the course of the study	other		1
+Non-restorative Sleep	other		1
+Non-serious adverse events	other		1
+Noncompliance	other		1
+Nose	other		1
+Nose picking	other		1
+nose throat other, shortness of breath, wheezing, and coughing	cough	cough	1
+Nose, sinus, throat	other		1
+Nostril tingling after spray	other		1
+Not otherwise listed, skin	other		1
+Numb left hand	other		1
+Obsessive behaviors	other		1
+Obsessive Compulsive Behavior	other		1
+Obsessive Rumination	other		1
+Odynophagia	other		1
+oppositional	irritability_agitation_aggression	oppositional	1
+oppositional behavior	irritability_agitation_aggression	oppositional	1
+Oppositionality, worsened	irritability_agitation_aggression	oppositional	1
+Oral Hemorrhage	other		1
+Oral herpes	other		1
+Oral Pain	other		1
+Other Cardiac Disorder	other		1
+other eye disorders	other		1
+Other infection	other		1
+Other: back pain, dizziness, fatigue, Flu, jitteriness, menstrual cramps, allergies	somnolence_sedation_fatigue	fatigue	1
+otitis externa	respiratory_ent_infection_cold	otitis	1
+Otitis externa	respiratory_ent_infection_cold	otitis	1
+Overactivity	other		1
+Overall	other		1
+Overgrowth fungal	other		1
+overly energetic	other		1
+Pain associated with bowel movements	other		1
+Pain at application site	other		1
+Pain in jaw	other		1
+Pain on Urination	other		1
+Painful Urination	other		1
+Painful urination, difficulty urinating, increased frequency, and enuresis	enuresis	enuresis	1
+Pallor	other		1
+pancreatitis	other		1
+Panic attack (moderate)	anxiety	panic	1
+Panic disorder	anxiety	panic	1
+Panic reaction	anxiety	panic	1
+Paranoia	other		1
+Parasomnia	other		1
+Paresthesia	other		1
+PE tube surgery	other		1
+Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection	other		1
+Perianal erythema	other		1
+Periobital/facial swelling	other		1
+Persistent cough	cough	cough	1
+Personality Disorder	other		1
+Personality/Behavior	other		1
+Pharyngeal Pain	other		1
+Pharyngitis Streptococcal	respiratory_ent_infection_cold	pharyngitis	1
+PHARYNGOLARYNGEAL PAIN	other		1
+Phlegm	other		1
+PICA event	other		1
+Picking	other		1
+Pituitary Analyses Anterior	other		1
+Pneumonitis	other		1
+Poison Ivy	other		1
+Polydipsia, polyuria	other		1
+polyuria	other		1
+Poor Concentration	other		1
+Poor concentration	other		1
+Possible seizure/syncope	seizure	seizure	1
+Pressure Of Speech	other		1
+PRESYNCOPE	other		1
+Presyncope	other		1
+Problem behavior	other		1
+Procedural Headache	headache	headache	1
+Product taste abnormal	other		1
+Productive Cough and Vomiting	vomiting	vomit	1
+Prone to Crying	irritability_agitation_aggression	crying	1
+Pruitis	other		1
+Pruritus genital	rash_skin	prurit	1
+PSYCHOMOTOR HYPERACTIVITY	hyperactivity_restlessness	psychomotor hyperactiv	1
+Psychomotor Retardation	other		1
+Pulling on lip skin	other		1
+Puncture Site Pain	other		1
+Pyelonephritis	other		1
+pyrexia	pyrexia	pyrexia	1
+Query absence seizures	seizure	seizure	1
+Racing heart	other		1
+Rapid pounding heart	other		1
+RASH	rash_skin	rash	1
+Rash acneiform	rash_skin	rash	1
+Rash Acneiform	rash_skin	rash	1
+Rash maculo-papular	rash_skin	rash	1
+Rash Maculo-Papular	rash_skin	rash	1
+Rash papular	rash_skin	rash	1
+Rash/hives	rash_skin	rash	1
+Rebound at end of day	other		1
+Recurrence of mood disorder in one participant	other		1
+Red Dry Cheeks	other		1
+Red Eyes	other		1
+Red itchy rash on leg	rash_skin	rash	1
+Redness around perineum	other		1
+Regression	other		1
+Regurgitation	other		1
+Renal lesions	other		1
+Repetitive behavior/speech	other		1
+repetitive behaviors	other		1
+Repetitive speech	other		1
+Restless legs syndrome	other		1
+Restlessness/Agitation	irritability_agitation_aggression	agitat	1
+Restlessness/agitation	irritability_agitation_aggression	agitat	1
+Restlessness/Agitation, including fidgety	irritability_agitation_aggression	agitat	1
+Retinal injury	other		1
+Rhinitis allergic	respiratory_ent_infection_cold	rhinitis	1
+Rhinitis Nos	respiratory_ent_infection_cold	rhinitis	1
+RHINORRHOEA	respiratory_ent_infection_cold	rhinorrh	1
+Right Leg Internal Rotation	other		1
+Right leg pain	other		1
+Ringing Ears	other		1
+Ritualistic Behaviors	other		1
+Road traffic accident	other		1
+Roseola	other		1
+Runny nose/congestion	respiratory_ent_infection_cold	runny nose	1
+Sad/Unhappy	low_mood	sad	1
+SAE - Serious adverse event	other		1
+SAE -Serious adverse event	other		1
+Saliva Hypersecretion	other		1
+SALIVARY HYPERSECRETION	tremor_eps	salivary hypersecretion	1
+Salivary hypersecretion	tremor_eps	salivary hypersecretion	1
+Salivary Hypersecretion	tremor_eps	salivary hypersecretion	1
+Sassy - talking back	other		1
+Scabies	other		1
+Schizoaffective disorder	other		1
+Scoliosis	other		1
+Scratch	other		1
+Screaming	other		1
+Seasonal allergies	other		1
+SEASONAL ALLERGY	other		1
+seasonal allergy	other		1
+Seasonal allergy exacerbation	other		1
+Seasonal cold	respiratory_ent_infection_cold	cold	1
+Seborrhoea	other		1
+sedation	somnolence_sedation_fatigue	sedat	1
+Sedation/drowsiness	somnolence_sedation_fatigue	sedat	1
+Seizure and Fever	seizure	seizure	1
+Seizure and vomiting	seizure	seizure	1
+seizure disorder	seizure	seizure	1
+Seizure Or Convulsion	seizure	seizure	1
+Self Injury	self_injury	self injur	1
+Self-Harm	self_injury	self-harm	1
+Self-injurious Behavior	self_injury	self-injur	1
+Self-Injurious Behavior	self_injury	self-injur	1
+Self-Injury	self_injury	self-injur	1
+Self-injury	self_injury	self-injur	1
+Sensory Aversions	other		1
+Sensory disturbance	other		1
+Sensory processing disorder	other		1
+Sensory Seeking Behaviors	other		1
+Sensory sensitivity	other		1
+Separation anxiety	anxiety	anxi	1
+Separation anxiety disorder	anxiety	anxi	1
+Sepsis	other		1
+Septic Shock	other		1
+Septicemia	other		1
+Severe Diarrhea	diarrhoea	diarrh	1
+Sexual	other		1
+SGOT outside of reference range	other		1
+SGPT outside of reference range	other		1
+Shortness of Breath	other		1
+Shortness of breath	other		1
+Silly	other		1
+Silly Behavior	other		1
+Sinus congestion	other		1
+Sinus headache	headache	headache	1
+sinus infection	other		1
+Sinus infection	other		1
+Sinus tachycardia	other		1
+Sinuses tender	other		1
+Skeletal Pain	other		1
+Skin	other		1
+Skin (Eye) Infection	other		1
+Skin Abrasion	other		1
+Skin Abscess	other		1
+Skin Burn	other		1
+Skin Cut	other		1
+Skin infection	other		1
+Skin or hair	other		1
+Skin papilloma	other		1
+Skin picking	self_injury	skin picking	1
+Skin Picking	self_injury	skin picking	1
+Skin Picking/SIB	self_injury	skin picking	1
+Skin Rash	rash_skin	rash	1
+Skin rash/Eczema	rash_skin	rash	1
+Sleep Difficulty	other		1
+Sleep Disruption	other		1
+Sleep Disturbance/Insomnia	insomnia_sleep_disturbance	sleep disturb	1
+Sleep disturbances	insomnia_sleep_disturbance	sleep disturb	1
+Sleep paralysis	other		1
+Sleep problems	insomnia_sleep_disturbance	sleep problem	1
+Sleep problems: disturbed sleep, increased dream recall, insomnia	insomnia_sleep_disturbance	sleep problem	1
+Sleep Walking	insomnia_sleep_disturbance	sleep walking	1
+Sleepiness	somnolence_sedation_fatigue	sleepiness	1
+Slowed thought process	other		1
+Snoring	other		1
+Social avoidant behavior	other		1
+Social avoidant behaviour	other		1
+Social Communicative Intent Loss	other		1
+Soreness due to injury	other		1
+Specific Muscle Pain	other		1
+Speech Disorder	other		1
+Spinal column injury	other		1
+Sprained ankle	other		1
+Staph infection	other		1
+Staphylcoccal skin infection	other		1
+Staphylococcal infection	other		1
+Stares A Lot	other		1
+Staring	other		1
+Staring episode	other		1
+Staring Spell	other		1
+Stereotypic movement	other		1
+Stereotypies, worsened	other		1
+Stomach ache/pain/upset/irritation	abdominal_pain_discomfort	stomach ache	1
+Stomach aches	abdominal_pain_discomfort	stomach ache	1
+stomach bug/virus/flu	gastroenteritis	stomach bug	1
+Stomach discomfort	abdominal_pain_discomfort	stomach discomfort	1
+Stomach flu	gastroenteritis	stomach flu	1
+Stomach Infection	other		1
+Stomach or abdominal discomfort, nausea, vomitting, diarrhea, constipation, stool discoloration	vomiting	vomit	1
+Stomach pain	abdominal_pain_discomfort	stomach pain	1
+Stomach Pain	abdominal_pain_discomfort	stomach pain	1
+Stomach virus	gastroenteritis	stomach virus	1
+Stomachaches	abdominal_pain_discomfort	stomachache	1
+Stool Analysis Abnormal	other		1
+Stool pH Decreased	other		1
+Stool pH Increased	other		1
+Strabismus	other		1
+Strange physical feelings	other		1
+Strep infection	other		1
+Streptococcal pharyngitis,	respiratory_ent_infection_cold	pharyngitis	1
+Streptococcus test positive	other		1
+Student stress from tracker	other		1
+Study electrode caused redness on subject's arm	other		1
+Stuffy nose	other		1
+Stuffy Nose	other		1
+Subjective Temperature Dysregulation	other		1
+Sudden onset of sleep	other		1
+Suicidal comment	other		1
+Suicidal ideas	other		1
+Suicidal thoughts	other		1
+Sunburn	other		1
+Surgical and Medical Procedures	other		1
+Suspected Child Abuse/Neglect	other		1
+swelling	other		1
+Swollen neck lymph node of unknown origin	other		1
+Swollen tonsils	other		1
+syncope	other		1
+Syncope/Dizziness	dizziness	dizz	1
+Talks less	other		1
+Tantrums	irritability_agitation_aggression	tantrum	1
+Taste abnormality	other		1
+taste/smell	other		1
+Teacher stress	other		1
+Tearful	low_mood	tearful	1
+Technical difficulties	other		1
+Temperature increase	other		1
+Temporary poor sleep	other		1
+Tendon Discomfort	other		1
+Tendon injury	other		1
+Terminal Insomnia	insomnia_sleep_disturbance	insomnia	1
+Terminal insomnia	insomnia_sleep_disturbance	insomnia	1
+Testicular pain	other		1
+THIRST	other		1
+Threats to hurt self	other		1
+Throat Burning Sensation	other		1
+Throat infection	other		1
+Tic- head shake	other		1
+Tinea infection	other		1
+Tinnitus	other		1
+Tired during the day	somnolence_sedation_fatigue	tired	1
+Tired, Exhausted, Fatigued, decreased energy level, felt sedated	somnolence_sedation_fatigue	tired	1
+Tiredness	somnolence_sedation_fatigue	tired	1
+tiredness fatigue, increased/decreased motor activity, difficulty falling asleep	insomnia_sleep_disturbance	difficulty falling asleep	1
+Toe walking	other		1
+Tongue ulcer and gum pain	other		1
+Tonsillar Hypertrophy	other		1
+Tooth abscess	other		1
+Tooth development disorder	other		1
+Tooth Disorder	other		1
+Tooth extraction	other		1
+Tooth fracture	other		1
+Tooth injury	other		1
+Tooth pain	other		1
+Tooth Pain	other		1
+Tooth repair	other		1
+Torus Fracture	other		1
+transient viral rash	rash_skin	rash	1
+Trichotillomania	other		1
+Triglyceride-serum high	other		1
+Triglycerides And WBC Out Of Range Clinically Significant	other		1
+Trouble Falling Asleep	other		1
+Trouble sleeping	insomnia_sleep_disturbance	trouble sleeping	1
+Trouble Sleeping	insomnia_sleep_disturbance	trouble sleeping	1
+trouble sleeping	insomnia_sleep_disturbance	trouble sleeping	1
+TSH outside of reference range	other		1
+TSH, T4, And WBC Out Of Range, Clinically Significant	other		1
+Tuberous sclerosis	other		1
+Tussis	cough	tussis	1
+Unanticipated Problem	other		1
+Unequal limb length	other		1
+Uninterested	other		1
+Unspecified Insomnia	insomnia_sleep_disturbance	insomnia	1
+Unspecified or not otherwise listed head	other		1
+Unspecified or not otherwise listed mouth	other		1
+Unspecified or not otherwise listed nose/throat	other		1
+Unspecified or not otherwise listed, musculoskeletal	other		1
+Unusual Blinking	other		1
+Upper Limb Fracture	other		1
+Upper respiratory infection/Upper Airways NOS	respiratory_ent_infection_cold	upper respiratory	1
+Upper respiratory tract infection (URI)	respiratory_ent_infection_cold	upper respiratory	1
+Upper Respiratory Tract Infections	respiratory_ent_infection_cold	upper respiratory	1
+Upper respiratory tract inflammation	respiratory_ent_infection_cold	upper respiratory	1
+URI	respiratory_ent_infection_cold	uri	1
+Urinary frequency	other		1
+Urinary incontinence	enuresis	urinary incontinence	1
+urinary incontinence	enuresis	urinary incontinence	1
+Urinary retention	other		1
+Urinary tract pain	other		1
+Urine calcium increased	other		1
+Urosepsis	other		1
+URTI	other		1
+UTI/urinary frequency/incontinence	other		1
+Ventricular fibrillation	other		1
+Viral exanthem	other		1
+Viral Illness	other		1
+Viral Infections	other		1
+Viral upper respiratory infection	respiratory_ent_infection_cold	upper respiratory	1
+Virus Infection	other		1
+Vision decreased	other		1
+Visual Acuity Reduced	other		1
+Visual change	other		1
+Visual impairment	other		1
+Vitamin D decreased	other		1
+vomiting	vomiting	vomit	1
+Vomiting and Diarrhea	vomiting	vomit	1
+Vomiting or Nausea	vomiting	vomit	1
+Vomiting Or Nausea	vomiting	vomit	1
+Vomiting/diarrhea	vomiting	vomit	1
+vomitting	vomiting	vomit	1
+Waking at Night	other		1
+Waking up Early	other		1
+Wandering Behavior	other		1
+Warmer body temperature	other		1
+Wart	other		1
+Watery eyes	other		1
+WBC, RBC, Hematocrit, And Absolute Neutrophil Out Of Range, Clinically Significant	other		1
+Weakness	other		1
+weight gain	weight_increased	weight gain	1
+Weight gian	other		1
+weight increased	weight_increased	weight increase	1
+WEIGHT INCREASED	weight_increased	weight increase	1
+Weight Increased	weight_increased	weight increase	1
+Withdrawn	other		1
+Worsening behaviour	other		1
+Worsening of depression	low_mood	depression	1
+Worsening tics	other		1
+Wound complication	other		1
+Wrist fracture	other		1
+Wrist Fracture	other		1

@@ -1,0 +1,9 @@
+step	hits	url
+A cond=autism (simple), has results	287	https://clinicaltrials.gov/api/v2/studies?query.cond=autism&filter.advanced=AREA%5BHasResults%5Dtrue&countTotal=true&pageSize=1&fields=NCTId
+B cond=broad autism terms, has results	289	https://clinicaltrials.gov/api/v2/studies?query.cond=autism+OR+autistic+OR+%22autism+spectrum+disorder%22+OR+asperger+OR+%22pervasive+developmental+disorder%22&filter.advanced=AREA%5BHasResults%5Dtrue&countTotal=true&pageSize=1&fields=NCTId
+C B + interventional	283	https://clinicaltrials.gov/api/v2/studies?query.cond=autism+OR+autistic+OR+%22autism+spectrum+disorder%22+OR+asperger+OR+%22pervasive+developmental+disorder%22&filter.advanced=AREA%5BHasResults%5Dtrue+AND+AREA%5BStudyType%5DINTERVENTIONAL&countTotal=true&pageSize=1&fields=NCTId
+D C + randomized	190	https://clinicaltrials.gov/api/v2/studies?query.cond=autism+OR+autistic+OR+%22autism+spectrum+disorder%22+OR+asperger+OR+%22pervasive+developmental+disorder%22&filter.advanced=AREA%5BHasResults%5Dtrue+AND+AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BDesignAllocation%5DRANDOMIZED&countTotal=true&pageSize=1&fields=NCTId
+E D + 'placebo' anywhere (query.term)	107	https://clinicaltrials.gov/api/v2/studies?query.cond=autism+OR+autistic+OR+%22autism+spectrum+disorder%22+OR+asperger+OR+%22pervasive+developmental+disorder%22&filter.advanced=AREA%5BHasResults%5Dtrue+AND+AREA%5BStudyType%5DINTERVENTIONAL+AND+AREA%5BDesignAllocation%5DRANDOMIZED&query.term=placebo&countTotal=true&pageSize=1&fields=NCTId
+fetched (step D)	190	downloaded 2026-10-23
+with placebo arm (arm type PLACEBO_COMPARATOR or 'placebo' in intervention name)	109	local filter
+... and >=1 cleanly placebo-titled AE group	87	local filter

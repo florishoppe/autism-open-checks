@@ -1,0 +1,90 @@
+nct	age_group	phase	masking	sponsor	placebo_n	active_n	threshold_pct	assessment_types_placebo_rows	interventions	ae_timeframe
+NCT00627705	child	PHASE2	QUADRUPLE	Stanford University	15	14	0	SYSTEMATIC_ASSESSMENT:14	N-Acetyl Cysteine; Placebo - sugar pill	Baseline and 4, 8 and 12 Weeks
+NCT02385799	child	PHASE2	TRIPLE	Randi J. Hagerman, MD	26	32	0	SYSTEMATIC_ASSESSMENT:50	Sertraline Liquid Placebo; Sertraline	From baseline to follow-up (6 months).
+NCT02410902	child	PHASE3	QUADRUPLE	Curemark	98	92	5	NON_SYSTEMATIC_ASSESSMENT:16	CM-AT; PLACEBO	Adverse Events were recorded from the time of consent through 30-days following subject completion of or withdrawal from study, equalling a maximum of 128 days.
+NCT01086475	child	PHASE3	TRIPLE	Indiana University	33	34	0	NON_SYSTEMATIC_ASSESSMENT:12	D-cycloserine; Placebo	Data collected at each visit
+NCT01694667	child	PHASE2	QUADRUPLE	Hugo W. Moser Research Institute at Kennedy Krieger, Inc.	28	29	0	SYSTEMATIC_ASSESSMENT:14	Omega-3 Fatty Acids; Placebo	6 weeks
+NCT02909959	mixed	PHASE2	QUADRUPLE	University of North Carolina, Chapel Hill	24	24	0	SYSTEMATIC_ASSESSMENT:14	Sulforaphane; Placebo	Adverse events were assessed from baseline to week 16 (a total of 16 weeks).
+NCT00183339	child	PHASE2	QUADRUPLE	University of North Carolina, Chapel Hill	10	8	5	SYSTEMATIC_ASSESSMENT:21	Fluoxetine; Placebo	12 months (The course of treatment for each participant in the trial)
+NCT04299464	mixed	PHASE2	QUADRUPLE	Hoffmann-La Roche	34	70	5	SYSTEMATIC_ASSESSMENT:17	Placebo; RO7017773	Up to Week 18
+NCT03008889	child	PHASE2	QUADRUPLE	Emory University	1	1	0	SYSTEMATIC_ASSESSMENT:13	N-acetylcysteine; Placebo	9 weeks
+NCT01474746	child	PHASE2	TRIPLE	Randi J. Hagerman, MD	30	27	0	NON_SYSTEMATIC_ASSESSMENT:33,SYSTEMATIC_ASSESSMENT:1	Sertraline; Placebo	The adverse event data were collected via non-systematic assessment (based on parent/caregiver reporting) throughout the 6-month period of each subject's participation in the study, as well as via sys
+NCT03514784	child	PHASE1; PHASE2	TRIPLE	The University of Texas Health Science Center, Houston	33	67	0	SYSTEMATIC_ASSESSMENT:25	BB-12 with LGG (Higher Dose); Placebo; BB-12 with LGG (Lower Dose)	From Day 1 to Day 84
+NCT01183221	adult	PHASE2	DOUBLE	Alexander Kolevzon	28	28	0	NOT_GIVEN:20	Syntocinon; Placebo	
+NCT02493426	mixed	PHASE2	QUADRUPLE	University of Minnesota	27	27	0	NON_SYSTEMATIC_ASSESSMENT:18	Intranasal Oxytocin; Placebo	6 weeks per participant
+NCT01777542	child	PHASE2	TRIPLE	Boston Children's Hospital	30	30	0	NON_SYSTEMATIC_ASSESSMENT:23,SYSTEMATIC_ASSESSMENT:28	Recombinant Human Insulin Growth Factor 1 (rhIGF-1); Placebo	80 weeks (from screening visit to 12-week follow up phone call).
+NCT01302964	child	PHASE3	QUADRUPLE	Massachusetts General Hospital	10	20	0	SYSTEMATIC_ASSESSMENT:56	Placebo; Mirtazapine	Ten weeks or at the time of latest data collection for the participant who did not complete the study.
+NCT03370510	child	PHASE2	QUADRUPLE	Yale University	2	3	0		Oxytocin; Pivotal Response Treatment; Placebo	16 weeks
+NCT02561481	child	PHASE1; PHASE2	QUADRUPLE	University of Massachusetts, Worcester	23	32	0	SYSTEMATIC_ASSESSMENT:5	Sulforaphane; Placebo	The pilot study took place over 2 weeks for each of 10 participants. The main study took place over 2 years, 6 months; 1/1/16 - 6/30/18 for 45 participants, each of whom was assessed from screening (t
+NCT00467753	child	NA	QUADRUPLE	University of Medicine and Dentistry of New Jersey	2	3	5	SYSTEMATIC_ASSESSMENT:1	Oxcarbazepine; Placebo/sugar pill	OVER THE ONE YEAR OF THE STUDY
+NCT04089579	child	PHASE2	QUADRUPLE	Joanne Kurtzberg, MD	69	68	0	NON_SYSTEMATIC_ASSESSMENT:105	Cord Tissue Mesenchymal Stromal Cells; Placebo Infusion	Up to 12 months. Adverse events are reported by randomized treatment arm broken into periods: 0-6 months (post-baseline infusion, pre-six month infusion) and 6-12 months (post-six month infusion). 6-1
+NCT03369431	child	NA	QUADRUPLE	University College, London	68	66	0	NON_SYSTEMATIC_ASSESSMENT:10	Vivomixx; Placebo	6 months
+NCT00047697	child	PHASE2	QUADRUPLE	University of Pittsburgh	16	18	5		Donepezil HCl; Placebo	AEs were collected for 10 weeks (and for longer if a subject had an active AE at the end of the 10-week trial).
+NCT00178503	child	PHASE2; PHASE3	QUADRUPLE	The University of Texas Health Science Center, Houston	24	72	1	NON_SYSTEMATIC_ASSESSMENT:1,SYSTEMATIC_ASSESSMENT:19	Methylphenidate-extended release; Methylphenidate-immediate release; Placebo	over 4 weeks of the trial
+NCT03664232	mixed	PHASE2	DOUBLE	Janssen Research & Development, LLC	37	40	5	NON_SYSTEMATIC_ASSESSMENT:36	JNJ-42165279; Placebo	Serious adverse events (SAEs) and other adverse events (AEs): From Day 1 up to 6 days post last dose of study drug (up to 91 days); All-cause mortality: From screening (Day -26) up to 99 days
+NCT00844753	child	PHASE4	TRIPLE	University of Rochester	62	63	0	SYSTEMATIC_ASSESSMENT:9	atomoxetine; Placebo; Parent Management Training	10 weeks
+NCT04944901	mixed	PHASE1	DOUBLE	Scioto Biosciences, Inc.	15	15	0	SYSTEMATIC_ASSESSMENT:21	SB-121; Placebo	Any time after informed consent was obtained until 14 days after study treatment, approximately 14 weeks (112 days)
+NCT03204786	child	PHASE2; PHASE3	QUADRUPLE	Stanford University	81	22	0	SYSTEMATIC_ASSESSMENT:132	Vasopressin (USP) Injectable Solution [Vasostrict]; Placebo	UP to 12 week
+NCT00709202	adult	PHASE2	QUADRUPLE	Nathan Kline Institute for Psychiatric Research	20	19	0	NON_SYSTEMATIC_ASSESSMENT:6	Betahistine; Placebo Oral Tablet	12 weeks during study drug administration
+NCT00325572	child	PHASE1	QUADRUPLE	Milton S. Hershey Medical Center	44	45	0		oral zinc and vitamin C supplements; oral Placebo	1 year
+NCT00468130	child	NA	QUADRUPLE	University of Medicine and Dentistry of New Jersey	6	7	1	NON_SYSTEMATIC_ASSESSMENT:1	Aripiprazole; Placebos	Adverse event data were collected during the period of the active study. Adverse events for each participant were collected during that participants enrollment in the study, initial contact through en
+NCT00337571	child	PHASE3	DOUBLE	Otsuka Pharmaceutical Development & Commercialization, Inc.	51	165	5	SYSTEMATIC_ASSESSMENT:37	Aripiprazole; Placebo	
+NCT02008396	adult	PHASE2	TRIPLE	Resilient Pharmaceuticals	4	8	5	SYSTEMATIC_ASSESSMENT:18	Placebo; Midomafetamine HCl; Therapy	All AEs from baseline to the end of stage 2 (approximately 10 months)
+NCT00786799	child	PHASE2	QUADRUPLE	University of California, San Francisco	13	14	5	NON_SYSTEMATIC_ASSESSMENT:2,SYSTEMATIC_ASSESSMENT:4	Omega-3 Fatty Acids; Omega-3 Fatty Acids	
+NCT02428205	child	NA	QUADRUPLE	University of Missouri-Columbia	4	5	0	NON_SYSTEMATIC_ASSESSMENT:4	Propranolol; Placebo	Adverse event data collected for duration of medication administration- 12 weeks
+NCT00850070	child	PHASE2	QUADRUPLE	The Children's Health Council	23	23	5	SYSTEMATIC_ASSESSMENT:7	sapropterin; Placebo	Adverse events were monitored for the length of the study, i.e., 16 weeks.
+NCT02278328	child	EARLY_PHASE1	NONE	Timothy Roberts	23	46	5	SYSTEMATIC_ASSESSMENT:5	STX209 (15mg); placebo; STX209 (30mg)	3 weeks
+NCT04745026	child	PHASE2	QUADRUPLE	Jazz Pharmaceuticals	54	49	5	SYSTEMATIC_ASSESSMENT:10	GWP42003-P; Placebo	Adverse event data were collected from baseline up to 14 days after last dose, up to approximately 12 weeks.
+NCT00198107	child	PHASE3	QUADRUPLE	Indiana University	40	50	4	SYSTEMATIC_ASSESSMENT:37	Aripiprazole; Placebo; D-cycloserine	Eight weeks or at the time of latest data collection.
+NCT01592747	child	PHASE2	QUADRUPLE	Forest Laboratories	160	317	5	SYSTEMATIC_ASSESSMENT:2	Memantine Hydrochloride (HCl); Memantine Hydrochloride (HCl); Placebo capsules	Adverse events were collected for a 14 month period from September of 2012 to October of 2013 at 92 study centers in the United States and 14 other countries.
+NCT01617447	child	PHASE3	QUADRUPLE	Otsuka Pharmaceutical Co., Ltd.	45	47	2	SYSTEMATIC_ASSESSMENT:71	Placebo of Aripiprazole; Aripiprazole	From the start date of investigational medicinal product (IMP) administration to date of the final examination (up to Week 8 at e hours after IMP administration)
+NCT00467818	child	NA	QUADRUPLE	University of Medicine and Dentistry of New Jersey	8	9	5	NON_SYSTEMATIC_ASSESSMENT:1	Omega 3 fatty acids; Placebo	The adverse event data were collected over the course of the study from the start in 2007 until completion in 2011. Each participant was observed for adverse events during the course of their treatmen
+NCT01289912	mixed	PHASE2	TRIPLE	Mustafa Sahin	15	32	5	SYSTEMATIC_ASSESSMENT:63	RAD001; Placebo	
+NCT03715153	child	PHASE3	QUADRUPLE	Institut de Recherches Internationales Servier	104	107	5	SYSTEMATIC_ASSESSMENT:77	BUMETANIDE (S95008) for week 0 - 26; PLACEBO for week 0 - 26; Open-Label BUMETANIDE (S95008) for weeks 26 - 52	Adverse events were collected throughout the study until the participant's last study visit, ie 1 year.
+NCT03569631	adult	PHASE2	DOUBLE	Tetra Discovery Partners	30	30	5	SYSTEMATIC_ASSESSMENT:4	BPN14770; Placebo	First dose of study drug up to 24 weeks
+NCT03504917	adult	PHASE3	DOUBLE	Hoffmann-La Roche	158	163	5	NON_SYSTEMATIC_ASSESSMENT:21	Balovaptan; Placebo	From baseline to the end of Safety Period, up to 2 years
+NCT00380692	child	PHASE4	QUADRUPLE	Eli Lilly and Company	49	48	5	SYSTEMATIC_ASSESSMENT:16	Atomoxetine; Placebo	
+NCT01337687	adult	NA	QUADRUPLE	Montefiore Medical Center	9	10	0	NON_SYSTEMATIC_ASSESSMENT:1	Intranasal Oxytocin; Placebo	
+NCT02901431	child	PHASE2	DOUBLE	Hoffmann-La Roche	124	222	5	SYSTEMATIC_ASSESSMENT:134	Placebo; RO5285119	From the first study drug to the data cutoff date: 30 June 2020 (up to 43 months)
+NCT03242772	child	PHASE2	QUADRUPLE	Duke University	9	9	0	NON_SYSTEMATIC_ASSESSMENT:21	Amphetamine; ESDM informed parent coaching; Placebo Oral Tablet	First three participants had a time frame of 52-64 weeks, and the remaining 15 had a timeframe 24 weeks, per protocol.
+NCT01308749	child	PHASE2	QUADRUPLE	University of North Carolina, Chapel Hill	13	12	0	SYSTEMATIC_ASSESSMENT:12	Oxytocin; Placebo	Period 1 0-8 weeks comparing sequence 1 and 2, Period 2 comparing sequence1 and 2
+NCT02947048	mixed	PHASE2	QUADRUPLE	Yamo Pharmaceuticals LLC	10	21	0	NON_SYSTEMATIC_ASSESSMENT:38	L1-79; Placebo	From the time of screening to the end of the study (28-day treatment period with 4-week post-treatment follow-up)
+NCT01417026	child	PHASE2	QUADRUPLE	Robert Schultz	13	16	0	SYSTEMATIC_ASSESSMENT:23	Intranasal Oxytocin (Trade name: Syntocinon)	12 Days
+NCT02847182	child	PHASE2	QUADRUPLE	Joanne Kurtzberg, MD	61	119	0	NON_SYSTEMATIC_ASSESSMENT:158	Cord Blood Infusion; Placebo	6 months and 12 months
+NCT01248130	child	PHASE2	TRIPLE	Massachusetts General Hospital	4	3	0	NOT_GIVEN:11	Omega-3 Fatty Acid	2 years
+NCT02903030	child	EARLY_PHASE1	TRIPLE	Ohio State University	10	10	0	SYSTEMATIC_ASSESSMENT:1	Maltose (placebo); Visbiome Extra Strength	After Baseline: 4 weeks, 8 weeks, 15 weeks, 19 weeks
+NCT00498173	child	PHASE3	TRIPLE	Massachusetts General Hospital	31	29	5	NOT_GIVEN:38	Atomoxetine; Placebo	
+NCT00490802	adult	PHASE2	QUADRUPLE	Evdokia Anagnostou	9	10	5	SYSTEMATIC_ASSESSMENT:12	Oxytocin; Placebo	
+NCT01624194	child	PHASE2	QUADRUPLE	Stanford University	18	14	0	SYSTEMATIC_ASSESSMENT:23	Oxytocin nasal spray; Placebo	4 weeks
+NCT01906866	child	PHASE3	DOUBLE	Neurim Pharmaceuticals Ltd.	65	60	5	SYSTEMATIC_ASSESSMENT:10	Circadin 2/5/10 mg; Placebo	104 weeks
+NCT05307744	child	NA	QUADRUPLE	Chang Gung Memorial Hospital	17	19	5		PS128; Placebo	Adverse reactions were systematically assessed at weeks 2, 4, 6, 8, 10, and 12 following the initiation of capsule administration.
+NCT01962870	child	PHASE2	TRIPLE	Stanford University	13	17	0	SYSTEMATIC_ASSESSMENT:31	Vasopressin; Placebo	4 weeks
+NCT04047355	mixed	PHASE2	QUADRUPLE	Rutgers, The State University of New Jersey	6	6	0	NON_SYSTEMATIC_ASSESSMENT:2	Propranolol	Weekly over the entire double-blind portion of the study. Exact duration varied per participant due to individualized titration periods (approximately 5-7 months based on individual titration schedule
+NCT01944046	child	PHASE2	QUADRUPLE	Linmarie Sikich	144	146	0	NON_SYSTEMATIC_ASSESSMENT:125	Double blind phase Placebo Nasal Spray; double Blind Oxytocin Nasal Spray; Open Label intranasal oxytocin	Through post-treatment follow-up, approximately 55 weeks.
+NCT00576732	child	PHASE4	TRIPLE	Johnson & Johnson Pharmaceutical Research & Development, L.L.C.	35	61	5	NON_SYSTEMATIC_ASSESSMENT:30	Placebo; Risperidone high dose; Risperidone low dose	Double-blind period: 6 weeks. Open-label period: 6 months.
+NCT01248728	child	PHASE2	QUADRUPLE	Holland Bloorview Kids Rehabilitation Hospital	19	19	0	NON_SYSTEMATIC_ASSESSMENT:1,NOT_GIVEN:7,SYSTEMATIC_ASSESSMENT:42	Omega-3 Fatty Acids; Placebo	
+NCT01970345	child	PHASE2	QUADRUPLE	Icahn School of Medicine at Mount Sinai	2	2	0	SYSTEMATIC_ASSESSMENT:16	IGF-1; Placebo/saline	36 weeks
+NCT01238575	child	PHASE4	QUADRUPLE	Yale University	32	30	5	NOT_GIVEN:34	placebo; extended-release guanfacine	
+NCT01825798	child	PHASE3	QUADRUPLE	Holland Bloorview Kids Rehabilitation Hospital	32	28	5	NON_SYSTEMATIC_ASSESSMENT:54	Metformin; Placebo	
+NCT01474993	mixed	PHASE2	QUADRUPLE	Andrew Zimmerman	14	26	5	SYSTEMATIC_ASSESSMENT:26	Sulforaphane-rich Broccoli Sprout Extract; Placebo	22 weeks
+NCT04660552	child	NA	TRIPLE	JelikaLite LLC	14	16	0		Cognilum TM: Light Treatment Condition	8 months
+NCT02940574	adult	PHASE4	QUADRUPLE	KU Leuven	18	22	5	SYSTEMATIC_ASSESSMENT:1	Syntocinon (Oxytocin); Placebo (Physiological water (solution of sodium chloride (NaCl) in water))	Adverse event data were collected over a period of (approximately) four weeks.
+NCT03033784	adult	PHASE2	DOUBLE	Emory University	48	95	0	NON_SYSTEMATIC_ASSESSMENT:11	8 International Units (IU) of Oxytocin; 24IU of Oxytocin; 48IU of Oxytocin; Placebo	Adverse events that were potentially related to the study intervention were collected from the time of consent to participate in the study through all study visits (up to Week 5).
+NCT01039792	child	PHASE2; PHASE3	TRIPLE	University of California, San Francisco	24	27	0	SYSTEMATIC_ASSESSMENT:5	Methyl B12; Placebo	
+NCT03835117	child	PHASE2	QUADRUPLE	Rossignol Medical Center	16	16	0	SYSTEMATIC_ASSESSMENT:1	Wide-spectrum nutritional supplement; Placebo	24 weeks
+NCT04644003	adult	PHASE1	QUADRUPLE	Stalicla SA	3	9	0	SYSTEMATIC_ASSESSMENT:7	STP1; Placebo	The total duration of the study for each participant was up to six weeks divided as follows: a screening phase of two weeks (from Day -14 to Day -1); a double-blind treatment phase of two weeks (from 
+NCT01911442	child	PHASE3	QUADRUPLE	Sumitomo Pharma America, Inc.	49	100	4	SYSTEMATIC_ASSESSMENT:31	Lurasidone 20 mg daily; Lurasidone; Placebo	Adverse event data were collected as spontaneous reports at all visits
+NCT01908205	child	PHASE2	QUADRUPLE	Holland Bloorview Kids Rehabilitation Hospital	30	30	0	SYSTEMATIC_ASSESSMENT:107	Intranasal Oxytocin; Placebo	
+NCT01630811	adult	PHASE2	TRIPLE	Sutter Health	13	13	0		Nuedexta; Placebo	Eight weeks for each intervention with 4 weeks washout in between interventions and at the end (total 24 weeks).
+NCT01972074	child	PHASE3	QUADRUPLE	Massachusetts General Hospital	21	22	0	SYSTEMATIC_ASSESSMENT:19	Memantine; Placebo	12 Weeks
+NCT02508259	child	PHASE1; PHASE2	QUADRUPLE	University of California, San Diego	5	5	5	NON_SYSTEMATIC_ASSESSMENT:7	Suramin; Saline	6 weeks
+NCT00453180	child	PHASE2	TRIPLE	Indiana University	15	16	5	NON_SYSTEMATIC_ASSESSMENT:34,SYSTEMATIC_ASSESSMENT:1	N-acetylcysteine; Placebo	Twelve Weeks
+NCT02552147	adult	PHASE1	QUADRUPLE	Yale University	7	7	0	NON_SYSTEMATIC_ASSESSMENT:2	Transdermal nicotine; Transdermal placebo	Duration of trial (3 weeks).
+NCT05523895	child	PHASE2; PHASE3	QUADRUPLE	ACADIA Pharmaceuticals Inc.	78	158	5	NON_SYSTEMATIC_ASSESSMENT:6	Pimavanserin; Placebo	From screening to end of safety follow-up, which was to be performed at 10 weeks, i.e. 4 weeks after last dose of study drug
+NCT00251303	child	PHASE2	QUADRUPLE	National Institute of Mental Health (NIMH)	30	30	5	SYSTEMATIC_ASSESSMENT:23	Riluzole; Placebo	12 weeks double-blind period.
+NCT03279471	child	PHASE2	TRIPLE	University of California, Davis	22	43	5	SYSTEMATIC_ASSESSMENT:27	Sertraline; CBT/BIACA; Placebo	Adverse event data were collected per patient from treatment start date until final post-treatment follow-up (29 w weeks from treatment start) or until early termination from study.
+NCT00332241	child	PHASE3	DOUBLE	Otsuka Pharmaceutical Development & Commercialization, Inc.	50	47	5	SYSTEMATIC_ASSESSMENT:16	Aripiprazole; Placebo	
+NCT02991807	mixed	PHASE1; PHASE2	TRIPLE	Boston Children's Hospital	22	24	0	SYSTEMATIC_ASSESSMENT:59	RAD001; Placebo	6 months
+NCT04174365	child	PHASE3	QUADRUPLE	Otsuka Pharmaceutical Development & Commercialization, Inc.	57	58	5	SYSTEMATIC_ASSESSMENT:3	Brexpiprazole; Placebo	From first dose through 21 days after last dose of study drug (up to Week 11)
+NCT00211757	child	PHASE2	QUADRUPLE	Montefiore Medical Center	11	16	1	NON_SYSTEMATIC_ASSESSMENT:5,SYSTEMATIC_ASSESSMENT:3	Divalproex sodium; Placebo	6 weeks on treatment
+NCT01337700	adult	PHASE4	QUADRUPLE	Montefiore Medical Center	5	5	0	NON_SYSTEMATIC_ASSESSMENT:1,NOT_GIVEN:18,SYSTEMATIC_ASSESSMENT:1	Milnacipran; Placebo	Adverse event data was collected from baseline to endpoint, for 12 weeks total.
